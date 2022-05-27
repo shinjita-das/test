@@ -18,7 +18,9 @@ Qian Chayn Sun: chayn.sun@rmit.edu.au
 
 Room 16, Level 12, Building 12, Geospatial Sciences, RMIT University, 124 La Trobe Street, Melbourne VIC 3000, Australia
 
-# Header 1
+# Funding Source:
+This study is supported by the Australian Urban Research Infrastructure Network (AURIN) High Impact Project 2022 “Nationwide Longitudinal Database for Emerging CALD Communities and Social-Environmental Inequities
+
 ## Header 2
 ### Header 3
 
