@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to SPATIAL AI
 
 You can use the [editor on GitHub](https://github.com/shinjita-das/test/edit/gh-page/README.md) to maintain and preview the content for your website in Markdown files.
 
